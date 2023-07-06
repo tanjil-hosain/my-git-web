@@ -1,0 +1,55 @@
+.fb{
+    color: aliceblue;
+    background-color: rgb(15, 138, 187);
+  font-size: 200%;
+  padding-left: 150px;
+  padding-top: 10px;
+    
+}
+*{
+    margin: 0%;
+    background-color:azure
+}
+div{
+    width: 300px;
+  
+    border: 1px solid rgb(34, 228, 218);
+    padding: 50px;
+margin-left: 400px;
+margin-top:140px;
+text-align: center;
+background-color: white;
+box-shadow: 3px 3px 5px rgb(158, 158, 254);
+border-radius: 5px;
+    
+  
+    
+}
+.right{
+margin: left 200px;
+}
+.login{
+    color: azure;
+    background-color: rgba(3, 120, 253, 0.425);
+    font-size: 18px;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.for{
+    color: rgb(0, 109, 241);
+    font-size: 18px;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: 5px;
+}
+.new{
+    color: aliceblue;
+    background-color:green;
+    font-size: 20px;
+    text-align: center;
+    
+    
+    
+}
