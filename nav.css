@@ -1,0 +1,20 @@
+nav>ul>li{
+    display: inline;
+    margin: 10px;
+    padding: 5px;
+    
+}
+nav li a{
+    text-decoration: none;
+    
+
+
+}
+nav li {
+    list-style: none;
+}
+
+
+nav li:hover{
+    background-color: gray;
+}
